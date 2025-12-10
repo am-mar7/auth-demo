@@ -124,7 +124,7 @@ Visit `http://localhost:3000/signup` to start.
 
 ### 2. Email Verification Page (`/verify-email`)
 
-![Email Verification Page](screenshots/verify-Email.png)
+![Email Verification Page](screenshots/Verify-Email.png)
 
 **Description:** After successful registration, users are directed to this page to verify their email address using a 6-digit OTP code sent to their email.
 
