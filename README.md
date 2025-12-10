@@ -99,7 +99,7 @@ Visit `http://localhost:3000/signup` to start.
 
 ### 1. Sign Up Page (`/signup`)
 
-![Sign Up Page](screenshots/signup.png)
+![Sign Up Page](screenshots/Signup.png)
 
 **Description:** The registration page where new users create their accounts. Features include a clean, modern design with a gradient background, proper form validation, and real-time error feedback.
 
@@ -124,7 +124,7 @@ Visit `http://localhost:3000/signup` to start.
 
 ### 2. Email Verification Page (`/verify-email`)
 
-![Email Verification Page](screenshots/verify-email.png)
+![Email Verification Page](screenshots/verify-Email.png)
 
 **Description:** After successful registration, users are directed to this page to verify their email address using a 6-digit OTP code sent to their email.
 
@@ -148,7 +148,7 @@ Visit `http://localhost:3000/signup` to start.
 
 ### 3. Sign In Page (`/signin`)
 
-![Sign In Page](screenshots/signin.png)
+![Sign In Page](screenshots/Signin.png)
 
 **Description:** The login page where existing users authenticate to access their accounts. Features a modern design with optional social login buttons and remember me functionality.
 
