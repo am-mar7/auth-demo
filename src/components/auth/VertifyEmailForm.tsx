@@ -102,7 +102,7 @@ export const VerifyEmailForm: React.FC = () => {
         value={formData.OTP}
         onChange={handleChange}
         error={errors.OTP}
-        placeholder="Enter 6-digit code"
+        placeholder="Enter 4-digit code"
         maxLength={4}
         helperText="Enter the 4-digit code sent to your email"
         required
